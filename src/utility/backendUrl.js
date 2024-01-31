@@ -1,1 +1,1 @@
-export const backend="http://localhost:8080/";
+export const backend="https://eh-backend-ri9i.onrender.com/";
